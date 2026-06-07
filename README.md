@@ -57,8 +57,8 @@ RowMapper
 CRUD operations
 MySQL integration
 Spring JDBC basics
-👨‍💻 Author
 
+👨‍💻 Author
 Ankit Katkhede
 
 ⭐ Note
